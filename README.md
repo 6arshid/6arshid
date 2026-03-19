@@ -18,7 +18,7 @@
 - ⚡ **Laravel + Inertia** is my current obsession → clean, modern SPA experiences with React or Vue  
 - 🎨 Master of **Bootstrap**, solid with **Tailwind CSS** — I mix them shamelessly when needed  
 - 🛠️ I create **CMS systems** (like BlueCMS), social networks, AI tools, blockchain experiments (Tron/Ethereum/Web3), WordPress crazy themes, and whatever sounds fun  
-- 🤖 Lately deep into **AI APIs** (DeepSeek, etc.) — crawling, translating, generating SEO content, you name it  
+- 🤖 Lately deep into **AI APIs** (DeepSeek, etc.) — crawling, translating, generating SEO content
 - 📝 Blogger too → check out my sites:  
   🔗 https://6arshid.github.io/  
   🔗 https://gahshomar.netlify.app/
