@@ -21,7 +21,6 @@
 - 🤖 Lately deep into **AI APIs** (DeepSeek, etc.) — crawling, translating, generating SEO content
 - 📝 Blogger too → check out my sites:  
   🔗 https://6arshid.github.io/  
-  🔗 https://gahshomar.netlify.app/
   🔗 https://6arshid.wordpress.com/contact-me/
 
 I code because I **love it**, not just for the paycheck or resume. If you have a wild idea — let's build something insane together!
