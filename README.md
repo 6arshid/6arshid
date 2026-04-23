@@ -26,7 +26,8 @@
 I code because I **love it**, not just for the paycheck or resume. If you have a wild idea — let's build something insane together!
 
 ### Some Favorite Projects
-- **[BlueCMS](https://github.com/6arshid/BlueCMS)** — Blog & Magazine CMS (my proud baby)  
+- **[BlueCMS](https://github.com/6arshid/BlueCMS)** — Blog & Magazine CMS (my proud baby)
+- **[Password protected em](https://github.com/6arshid/password-protected-em)** — Password Protected Em — Lock Entire Site, Pages, Posts, Categories, and Partial Content
 - **[bluecms-php](https://github.com/6arshid/bluecms-php)** → Another flavor of the CMS adventure  
 - **[Laravel-Social-Network-SPA](https://github.com/6arshid/Laravel-Social-Network-SPA)** — Full single-page social network  
 - **[jmail.world-crawler-for-translate-to-persian](https://github.com/6arshid/jmail.world-crawler-for-translate-to-persian)** — Crawls & translates Jeffrey Epstein emails using PHP + DeepSeek AI (yes, really 😄)  
