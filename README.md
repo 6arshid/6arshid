@@ -27,6 +27,7 @@ I code because I **love it**, not just for the paycheck or resume. If you have a
 
 ### Some Favorite Projects
 - **[BlueCMS](https://github.com/6arshid/BlueCMS)** — Blog & Magazine CMS (my proud baby)
+- **[Statistics em](https://github.com/6arshid/statistics-em)** — Real-time visit analytics plugin for EmDash CMS — tracks and displays page view metrics with daily and historical breakdowns
 - **[React-marketplace](https://github.com/6arshid/React-marketplace)** — Marketplace frontend experiments  
 - **[Password protected em](https://github.com/6arshid/password-protected-em)** — Password Protected Em — Lock Entire Site, Pages, Posts, Categories, and Partial Content
 - **[Translate em](https://github.com/6arshid/Translate-em)** — Multilingual translation plugin for EmDash CMS.
