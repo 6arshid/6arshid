@@ -84,7 +84,7 @@ I code because I **love it**, not just for the paycheck or resume. If you have a
 | [rjdownloader](https://github.com/6arshid/rjdownloader) | Radio Javan PHP downloader | PHP | 2 |
 | [send-html-code-to-telegram-channel](https://github.com/6arshid/send-html-code-to-telegram-channel) | Send HTML content to Telegram channel via PHP | PHP | 0 |
 | [php-google-suggest](https://github.com/6arshid/php-google-suggest) | PHP Google autocomplete/suggest keyword tool | PHP | 0 |
-| [wp-easy-form-builder](https://github.com/6arshid/wp-easy-form-builder) | WordPress Bootstrap easy form builder | JavaScript | 0 |
+| [wp-easy-form-builder]([https://github.com/6arshid/wp-easy-form-builder](https://github.com/6arshid/easy-form-builder)) | WordPress Bootstrap easy form builder | JavaScript | 0 |
 | [sample-wordpress-shortcode-plugin-](https://github.com/6arshid/sample-wordpress-shortcode-plugin-) | Sample WordPress shortcode plugin | PHP | 0 |
 | [wpbakery-hover-panel-element](https://github.com/6arshid/wpbakery-hover-panel-element) | Visual Composer hover style element | CSS | 0 |
 | [mulle.live](https://github.com/6arshid/mulle.live) | Video call with WebRTC | — | 0 |
